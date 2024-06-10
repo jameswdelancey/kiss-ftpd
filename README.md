@@ -1,14 +1,11 @@
 kiss-ftpd
 ---------
 
-[![Build Status](https://ci.moparisthe.best/job/moparisthebest/job/kiss-ftpd/job/master/badge/icon%3Fstyle=plastic)](https://ci.moparisthe.best/job/moparisthebest/job/kiss-ftpd/job/master/)
-[![crates.io](https://img.shields.io/crates/v/kiss-ftpd.svg)](https://crates.io/crates/kiss-ftpd)
-
-An FTP server that Keeps It Simple, Stupid.
-
-It simply serves the specified directory over FTP, allowing reads and writes, and that's it!
-
-If you are after a more complicated FTP server with all the bells and whistles, [unFTP](https://github.com/bolcom/unFTP) looks good.
+```
+git clone ...
+cd
+cargo run
+```
 
 ##### Usage
 
